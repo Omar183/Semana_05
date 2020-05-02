@@ -1,0 +1,72 @@
+/*-----------------Header-----------------*/
+.Cabezera__title{
+    position: relative;
+    width: 1400px;
+    height: 250px;
+    left: 0px;
+    top: 130px;
+
+    margin:0px auto;
+    padding: 0px;
+
+    background: linear-gradient(211.87deg, #98D0FC 2.46%, #3481D7 93.24%);
+    background-repeat: no-repeat; 
+}
+
+.Cabezera__title_position{
+    position: relative;
+    width: 1400px;
+    left: 0px;
+    top: 50px;
+
+    margin:0px auto;
+    padding: 0px;
+
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+
+
+    line-height: 40px;
+
+    text-align: center;
+    letter-spacing: 0.04em;
+
+    color: white;
+}
+
+.Cabezera__title_paragraph{
+    position: relative;
+    width: 780px;
+    height: 250px;
+    left: 293px;
+    top: 50px;
+
+    text-align: center;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 30px;
+
+    color: white;
+}
+
+.Information__article{
+    position: relative;
+    width: 380px;
+    height: 250px;
+    left: 250px;
+    top: 240px;
+
+    text-align: justify;
+}
+
+.Information__image{
+    position: relative;
+    left: 800px;
+    right: 250px;
+    top: 540px;
+
+}
